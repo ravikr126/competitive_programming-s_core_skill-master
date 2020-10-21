@@ -1,1 +1,2 @@
-# competitive_programming-s_core_skill-master
+# competitive_programming_coursera
+Solution for competitive programming course on coursera
